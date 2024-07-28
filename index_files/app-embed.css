@@ -1,0 +1,1215 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/description/index.vue?vue&type=style&index=0&id=b40ca4c2&lang=scss&scoped=true ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app-embed-plus-component-description[data-v-b40ca4c2] {
+  font-family: Roboto;
+  font-weight: bold;
+  color: #282828;
+  line-height: 24PX;
+}
+.app-embed-plus-component-description.component-description-title[data-v-b40ca4c2] {
+  font-size: 20PX;
+  white-space: normal;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+.app-embed-plus-component-description.component-description-subtitle[data-v-b40ca4c2] {
+  font-size: 13PX;
+  white-space: normal;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/cart-price/index.vue?vue&type=style&index=0&id=2e6fadef&lang=scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+#CartDrawer .drawer__footer .cart-drawer__footer .totals {
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          -webkit-align-items: flex-end;
+          align-items: flex-end;
+}
+.cart__footer .cart__blocks .js-contents .totals {
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          -webkit-align-items: flex-end;
+          align-items: flex-end;
+}
+.cart__footer .cart__blocks .js-contents .totals .totals__subtotal-value {
+  margin-bottom: 0;
+}
+.app-embed-plus-cart-price {
+  font-size: 1.8rem;
+  text-align: right;
+}
+.app-embed-plus-cart-price-origin {
+  text-decoration: line-through;
+}
+.app-embed-plus-cart-price-save.red {
+  color: red;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/cart-pay/index.vue?vue&type=style&index=0&id=85180d64&lang=scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app-embed-plus-cart-pay {
+  width: 100%;
+  font-size: 1.8rem;
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+}
+.app-embed-plus-cart-pay.cart {
+  font-size: 2rem;
+  font-weight: bold;
+  max-width: 36rem;
+  text-transform: uppercase;
+  margin-top: 0 !important;
+}
+@media screen and (max-width: 750PX) {
+.app-embed-plus-cart-pay.cart {
+    max-width: 22.5rem;
+    margin: 0 auto 1rem;
+}
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/button/index.vue?vue&type=style&index=0&id=5a8dd545&lang=scss&scoped=true ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@-webkit-keyframes bounce-5a8dd545 {
+from, 20%, 53%, to {
+    -webkit-animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+            animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+40%, 43% {
+    -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+            animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    -webkit-transform: translate3d(0, -1.5rem, 0) scaleY(1.1);
+            transform: translate3d(0, -1.5rem, 0) scaleY(1.1);
+}
+70% {
+    -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+            animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    -webkit-transform: translate3d(0, -0.75rem, 0) scaleY(1.05);
+            transform: translate3d(0, -0.75rem, 0) scaleY(1.05);
+}
+80% {
+    -webkit-transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+            transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    -webkit-transform: translate3d(0, 0, 0) scaleY(0.95);
+            transform: translate3d(0, 0, 0) scaleY(0.95);
+}
+90% {
+    -webkit-transform: translate3d(0, -0.4rem, 0) scaleY(1.02);
+            transform: translate3d(0, -0.4rem, 0) scaleY(1.02);
+}
+}
+@keyframes bounce-5a8dd545 {
+from, 20%, 53%, to {
+    -webkit-animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+            animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+40%, 43% {
+    -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+            animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    -webkit-transform: translate3d(0, -1.5rem, 0) scaleY(1.1);
+            transform: translate3d(0, -1.5rem, 0) scaleY(1.1);
+}
+70% {
+    -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+            animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    -webkit-transform: translate3d(0, -0.75rem, 0) scaleY(1.05);
+            transform: translate3d(0, -0.75rem, 0) scaleY(1.05);
+}
+80% {
+    -webkit-transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+            transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    -webkit-transform: translate3d(0, 0, 0) scaleY(0.95);
+            transform: translate3d(0, 0, 0) scaleY(0.95);
+}
+90% {
+    -webkit-transform: translate3d(0, -0.4rem, 0) scaleY(1.02);
+            transform: translate3d(0, -0.4rem, 0) scaleY(1.02);
+}
+}
+.app-embed-plus-component-pay-button[data-v-5a8dd545] {
+  height: 45PX;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  min-height: 11PX;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 20PX;
+  color: #FFFFFF;
+  line-height: 33PX;
+  background-color: #4667A7;
+  border-radius: 6PX;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  cursor: pointer;
+  -webkit-animation: bounce-5a8dd545;
+          animation: bounce-5a8dd545;
+  -webkit-animation-duration: 1.5s;
+          animation-duration: 1.5s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+.app-embed-plus-component-pay-button-address-text[data-v-5a8dd545] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  font-size: 14PX;
+  padding: 5PX;
+  text-align: center;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/price/index.vue?vue&type=style&index=0&id=477424ac&lang=scss&scoped=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app-embed-plus-component-price[data-v-477424ac] {
+  vertical-align: text-bottom;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          -webkit-align-items: flex-end;
+          align-items: flex-end;
+  -ms-flex-wrap: wrap;
+      -webkit-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+.component-price-content[data-v-477424ac] {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 16PX;
+  color: #B80000;
+  margin-right: 7PX;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          -webkit-align-items: flex-end;
+          align-items: flex-end;
+  line-height: 1;
+}
+.component-price-real-content[data-v-477424ac] {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 16PX;
+  color: #a6a8ab;
+  -moz-text-decoration-line: line-through;
+       text-decoration-line: line-through;
+  margin-right: 6PX;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          -webkit-align-items: flex-end;
+          align-items: flex-end;
+  line-height: 1;
+  position: relative;
+}
+.component-price-real-save[data-v-477424ac] {
+  height: 17PX;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 6PX;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 11PX;
+  color: #131313;
+  line-height: 13PX;
+  border: 1PX solid rgba(19, 19, 19, 0.5);
+  border-radius: 17PX;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/count/index.vue?vue&type=style&index=0&id=4de344f2&lang=scss&scoped=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app-embed-plus-component-count[data-v-4de344f2] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: stretch;
+      -ms-flex-pack: stretch;
+          -webkit-justify-content: stretch;
+          justify-content: stretch;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          -webkit-align-items: stretch;
+          align-items: stretch;
+  height: 22PX;
+  border: 1PX solid #AAAAAA;
+  box-sizing: content-box;
+  border-radius: 6PX;
+  overflow: hidden;
+}
+.component-count-decline[data-v-4de344f2],
+.component-count-add[data-v-4de344f2] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  width: 23PX;
+  font-size: 8PX;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-color: #eeeeee;
+  box-sizing: content-box;
+  cursor: pointer;
+}
+.component-count-decline[data-v-4de344f2] {
+  border-right: 1PX solid #AAAAAA;
+}
+.component-count-add[data-v-4de344f2] {
+  border-left: 1PX solid #AAAAAA;
+}
+.component-count-value[data-v-4de344f2] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  width: 56PX;
+  background-color: #ffffff;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 12PX;
+  color: #333333;
+  line-height: 13PX;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/select/index.vue?vue&type=style&index=0&id=6018a2e2&lang=scss&scoped=true ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app-embed-plus-component-select[data-v-6018a2e2] {
+  width: 100%;
+  height: 26PX;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          -webkit-align-items: stretch;
+          align-items: stretch;
+  position: relative;
+  box-sizing: content-box;
+}
+.component-select-preview[data-v-6018a2e2] {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  min-width: 0;
+  border: 1PX solid #AAAAAA;
+  border-radius: 3PX;
+  padding: 8PX 12PX;
+  cursor: pointer;
+}
+.component-select-preview .component-select-preview-text[data-v-6018a2e2] {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          -webkit-flex: 1;
+          flex: 1;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 12PX;
+  color: #000000;
+  line-height: 13PX;
+}
+.component-select-preview .component-select-preview-suffix[data-v-6018a2e2] {
+  font-size: 12PX;
+  color: #b2b2b2;
+}
+.component-select-popup[data-v-6018a2e2] {
+  width: auto;
+  min-width: 100%;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  padding-top: 6PX;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: opacity 0.309s ease;
+  transition: opacity 0.309s ease;
+  z-index: 15;
+}
+.component-select-popup.popup-show[data-v-6018a2e2] {
+  visibility: visible;
+  opacity: 1;
+}
+.component-select-popup .component-select-popup-list[data-v-6018a2e2] {
+  width: auto;
+  min-width: 100%;
+  max-height: 240PX;
+  overflow-y: auto;
+  background-color: #FFFFFF;
+  border-radius: 3PX;
+  box-shadow: 0PX 4PX 8PX rgba(178, 178, 178, 0.6352941176);
+  padding: 6PX 0;
+}
+.component-select-popup .component-select-popup-list .component-select-popup-option[data-v-6018a2e2] {
+  padding: 8PX 12PX;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14PX;
+  color: #000000;
+  line-height: 18PX;
+  cursor: pointer;
+}
+.component-select-popup .component-select-popup-list .component-select-popup-option[data-v-6018a2e2]:hover, .component-select-popup .component-select-popup-list .component-select-popup-option[data-v-6018a2e2]:active, .component-select-popup .component-select-popup-list .component-select-popup-option.active[data-v-6018a2e2] {
+  background-color: #f2f2f2;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/connection-line/index.vue?vue&type=style&index=0&id=72781666&lang=scss&scoped=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app-embed-plus-component-connection-line[data-v-72781666] {
+  display: none;
+  visibility: hidden;
+  position: relative;
+  cursor: auto;
+  pointer-events: none;
+}
+.app-embed-plus-component-connection-line.horizontal[data-v-72781666] {
+  height: 1PX;
+  margin: 20PX 0;
+  background-color: #cccccc;
+}
+.app-embed-plus-component-connection-line.horizontal .connection-line-icon[data-v-72781666] {
+  top: 50%;
+  left: 71PX;
+  -webkit-transform: translate(-50%, -50%);
+              -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.app-embed-plus-component-connection-line.horizontal.show[data-v-72781666] {
+  display: block !important;
+  visibility: visible !important;
+}
+.app-embed-plus-component-connection-line.vertical[data-v-72781666] {
+  width: 1PX;
+  height: 100%;
+  position: absolute;
+  right: -8PX;
+  top: 0;
+}
+.app-embed-plus-component-connection-line.vertical .connection-line-icon[data-v-72781666] {
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+              -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.app-embed-plus-component-connection-line.vertical.show[data-v-72781666] {
+  display: block !important;
+  visibility: visible !important;
+}
+.connection-line-icon[data-v-72781666] {
+  position: absolute;
+  width: 28PX;
+  height: 28PX;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  font-size: 14PX;
+  color: #FFFFFF;
+  border-radius: 50%;
+  background-color: #4667A7;
+  border: 3PX solid #FFFFFF;
+  z-index: 2;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/card/index.vue?vue&type=style&index=0&id=2dcb2cba&lang=scss&scoped=true ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app-embed-plus-component-card[data-v-2dcb2cba] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          -webkit-align-items: stretch;
+          align-items: stretch;
+}
+.app-embed-plus-component-card .component-card-price[data-v-2dcb2cba] .component-price-content,
+.app-embed-plus-component-card .component-card-price[data-v-2dcb2cba] .component-price-real-content,
+.app-embed-plus-component-card .component-card-price[data-v-2dcb2cba] .component-price-real-save {
+  margin-bottom: 6PX;
+}
+.app-embed-plus-component-card.component-card-horizontal[data-v-2dcb2cba] {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          -webkit-flex-direction: row;
+          flex-direction: row;
+  width: 100%;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          -webkit-flex: 1;
+          flex: 1;
+}
+.app-embed-plus-component-card.component-card-horizontal .app-embed-plus-component-select[data-v-2dcb2cba], .app-embed-plus-component-card.component-card-horizontal[data-v-2dcb2cba] .app-embed-plus-component-select {
+  width: 50% !important;
+}
+@media screen and (max-width: 435PX) {
+.app-embed-plus-component-card.component-card-horizontal .app-embed-plus-component-select[data-v-2dcb2cba], .app-embed-plus-component-card.component-card-horizontal[data-v-2dcb2cba] .app-embed-plus-component-select {
+    width: 100% !important;
+}
+}
+.app-embed-plus-component-card.component-card-horizontal .component-card-img[data-v-2dcb2cba] {
+  margin-right: 12PX;
+}
+.app-embed-plus-component-card.component-card-horizontal .component-card-img img[data-v-2dcb2cba] {
+  display: block;
+  width: 144PX;
+  height: 144PX;
+}
+.app-embed-plus-component-card.component-card-vertical[data-v-2dcb2cba] {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-wrap: wrap;
+      -webkit-flex-wrap: wrap;
+      flex-wrap: wrap;
+  width: calc(50% - 17PX);
+  max-width: calc(50% - 17PX);
+  margin-bottom: 10PX;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          -webkit-flex: 1;
+          flex: 1;
+  min-width: 0;
+}
+.app-embed-plus-component-card.component-card-vertical .app-embed-plus-component-select[data-v-2dcb2cba], .app-embed-plus-component-card.component-card-vertical[data-v-2dcb2cba] .app-embed-plus-component-select {
+  width: 100% !important;
+}
+.app-embed-plus-component-card.component-card-vertical .component-card-img[data-v-2dcb2cba] {
+  margin-bottom: 10PX;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+.app-embed-plus-component-card.component-card-vertical .component-card-img img[data-v-2dcb2cba] {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+.app-embed-plus-component-card.component-card-vertical .component-card-title[data-v-2dcb2cba] {
+  height: 84PX;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.app-embed-plus-component-card.component-card-vertical .component-card-info[data-v-2dcb2cba] {
+  width: 100%;
+}
+.component-card-img[data-v-2dcb2cba] {
+  cursor: pointer;
+}
+.component-card-img .component-card-img-container[data-v-2dcb2cba] {
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          -webkit-align-items: flex-start;
+          align-items: flex-start;
+  overflow: hidden;
+  aspect-ratio: 1/1;
+}
+.component-card-img .component-card-img-container img[data-v-2dcb2cba] {
+  display: block;
+  object-position: center center;
+  object-fit: contain;
+  border: 1PX solid #AAAAAA;
+  aspect-ratio: 1/1;
+}
+.component-card-info[data-v-2dcb2cba] {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          -webkit-flex: 1;
+          flex: 1;
+  min-width: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          -webkit-justify-content: flex-start;
+          justify-content: flex-start;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          -webkit-align-items: flex-start;
+          align-items: flex-start;
+}
+.component-card-title[data-v-2dcb2cba] {
+  width: 100%;
+  height: 84PX;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16PX;
+  color: #282828;
+  line-height: 21PX;
+  margin-bottom: 7PX;
+  cursor: pointer;
+  white-space: normal;
+  word-wrap: break-word;
+  word-break: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.component-card-title[data-v-2dcb2cba]:hover {
+  text-decoration: underline;
+}
+.component-card-placehoder[data-v-2dcb2cba] {
+  display: block;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          -webkit-flex: 1;
+          flex: 1;
+}
+.component-card-variants[data-v-2dcb2cba] {
+  width: 100%;
+}
+.component-card-variants .app-embed-plus-component-select[data-v-2dcb2cba] {
+  margin-bottom: 7PX;
+}
+.component-card-connection-line-hr[data-v-2dcb2cba] {
+  display: block !important;
+  width: 1PX;
+  height: 100%;
+  margin: 0 8PX;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/bundler/index.vue?vue&type=style&index=0&id=24b05cd3&lang=scss&scoped=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app-embed-plus-component-bundler[data-v-24b05cd3] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          -webkit-align-items: stretch;
+          align-items: stretch;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          -webkit-justify-content: flex-start;
+          justify-content: flex-start;
+  padding: 24PX 0;
+}
+.app-embed-plus-component-bundler-shadow[data-v-24b05cd3] {
+  padding: 12PX;
+  background: #FFFFFF;
+  border-radius: 8PX;
+  border: 1PX solid #f5f5f5;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/gradient/index.vue?vue&type=style&index=0&id=82f67c7a&lang=scss&scoped=true ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app-embed-plus-component-gradient[data-v-82f67c7a] {
+  margin-bottom: 24PX;
+}
+.component-gradient-title[data-v-82f67c7a] {
+  font-weight: bold;
+  line-height: 24PX;
+  font-size: 16PX;
+  color: #282828;
+  text-align: left;
+  margin: 20PX 0;
+}
+.component-gradient-infos[data-v-82f67c7a] {
+  margin-top: 10PX;
+}
+.component-gradient-infos .component-gradient-table-info[data-v-82f67c7a] {
+  padding: 8PX 20PX;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  margin: 0;
+  border: 1PX solid #c7c7c7;
+  border-bottom: none;
+}
+.component-gradient-infos .component-gradient-table-info[data-v-82f67c7a]:last-child {
+  border-bottom: 1PX solid #c7c7c7;
+}
+.component-gradient-infos .component-gradient-table-info .component-gradient-table-info-text[data-v-82f67c7a] {
+  font-size: 14PX;
+  font-weight: bold;
+  line-height: normal;
+  line-height: initial;
+  text-align: left;
+  color: #282828;
+}
+.component-gradient-infos .component-gradient-table-info .component-gradient-table-info-button[data-v-82f67c7a] {
+  border: 1PX solid #4667A7;
+  font-size: 13PX;
+  padding: 8PX;
+  cursor: pointer;
+  font-weight: normal;
+  font-weight: initial;
+  line-height: 1;
+  min-width: 110PX;
+  border-radius: 2PX;
+  text-align: center;
+  padding: 8PX;
+}
+.component-gradient-description[data-v-82f67c7a] {
+  font-size: 12PX;
+  line-height: normal;
+  line-height: initial;
+  margin-top: 10PX;
+  color: #FF0000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  text-align: center;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/components/recommend/index.vue?vue&type=style&index=0&id=77f70c5f&lang=scss&scoped=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app-embed-plus-component-recommend[data-v-77f70c5f] {
+  margin-bottom: 24PX;
+}
+.component-recommend-title[data-v-77f70c5f] {
+  text-align: left;
+  color: #282828;
+  font-size: 16PX;
+  font-weight: bold;
+  line-height: 24PX;
+  margin: 20PX 0 10PX;
+  border-left: 6PX solid #b80000;
+  padding-left: 10PX;
+}
+.component-recommend-description[data-v-77f70c5f] {
+  font-size: 15PX;
+  line-height: normal;
+  line-height: initial;
+  margin-bottom: 10PX;
+  color: #FF0000;
+  line-height: 1.2;
+}
+.component-recommend-description-line[data-v-77f70c5f] {
+  white-space: normal;
+  word-wrap: break-word;
+  word-break: break-all;
+  line-height: 1.2;
+}
+.component-recommend-card[data-v-77f70c5f] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  border: 1PX solid #c7c7c7;
+  border-radius: 10PX;
+  padding: 12PX;
+  margin-bottom: 12PX;
+}
+.component-recommend-card .recommend-card-img[data-v-77f70c5f] {
+  width: 140PX;
+  cursor: pointer;
+}
+.component-recommend-card .recommend-card-img img[data-v-77f70c5f] {
+  display: block;
+  width: 140PX;
+  height: auto;
+}
+.component-recommend-card .recommend-card-info[data-v-77f70c5f] {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          -webkit-flex: 1;
+          flex: 1;
+  margin-left: 10PX;
+}
+.component-recommend-card .recommend-card-info .recommend-card-info-title[data-v-77f70c5f] {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          -webkit-flex: 1;
+          flex: 1;
+  color: #282828;
+  text-decoration: none;
+  font-size: 16PX;
+  font-weight: bold;
+  margin: 0;
+  line-height: normal;
+  line-height: initial;
+  text-align: left;
+  overflow: hidden;
+  cursor: pointer;
+  text-overflow: ellipsis;
+  white-space: normal;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.component-recommend-card .recommend-card-info .recommend-card-info-price[data-v-77f70c5f] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          -webkit-align-items: baseline;
+          align-items: baseline;
+}
+.component-recommend-card .recommend-card-info .recommend-card-info-price .recommend-card-info-price-current[data-v-77f70c5f] {
+  color: #B80000;
+  font-weight: bold;
+  font-size: 16PX;
+}
+.component-recommend-card .recommend-card-info .recommend-card-info-price .recommend-card-info-price-save[data-v-77f70c5f] {
+  color: #788188;
+  font-weight: bold;
+  font-size: 14PX;
+  margin-left: 10PX;
+  text-decoration: line-through;
+}
+.component-recommend-card .recommend-card-info .recommend-card-info-select[data-v-77f70c5f] {
+  border: 1PX solid #cccccc;
+  font-weight: bold;
+  line-height: normal;
+  line-height: initial;
+  cursor: pointer;
+  padding: 5PX;
+  margin-bottom: 12PX;
+}
+.component-recommend-card .recommend-card-info .recommend-card-info-select .recommend-card-info-select-controller[data-v-77f70c5f] {
+  width: 100%;
+  height: 3rem;
+}
+.component-recommend-card .recommend-card-info .recommend-card-info-buy-button[data-v-77f70c5f] {
+  background-color: #1B376D;
+  color: #FFFFFF;
+  font-size: 16PX;
+  padding: 0;
+  border-radius: 2PX;
+  text-align: center;
+  cursor: pointer;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/app/index.vue?vue&type=style&index=0&id=5ecaa44a&lang=scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app a:empty,
+.app ul:empty,
+.app dl:empty,
+.app div:empty,
+.app section:empty,
+.app article:empty,
+.app p:empty,
+.app h1:empty,
+.app h2:empty,
+.app h3:empty,
+.app h4:empty,
+.app h5:empty,
+.app h6:empty {
+  display: block;
+}
+.component-bundler-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  -ms-flex-line-pack: center;
+      -webkit-align-content: center;
+      align-content: center;
+  white-space: nowrap;
+  text-align: center;
+  margin-bottom: 20PX;
+}
+.component-bundler-title .component-bundler-component-description:first-child {
+  margin-bottom: 8PX;
+}
+.component-bundler-title .component-bundler-component-description:nth-child(2) {
+  margin-bottom: 16PX;
+}
+.component-bundler-layout {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          -webkit-align-items: stretch;
+          align-items: stretch;
+  position: relative;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.component-bundler-layout .component-bundler-layout-link-icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  width: 23PX;
+  height: 23PX;
+  background-color: #f84a00;
+  border: 3PX solid #FFFFFF;
+  color: #FFFFFF;
+  font-weight: bold;
+  border-radius: 50%;
+  position: absolute;
+  font-size: 12PX;
+  line-height: 1;
+}
+.component-bundler-layout.vertical {
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          -webkit-align-items: stretch;
+          align-items: stretch;
+  margin-bottom: 10PX;
+}
+.component-bundler-layout.vertical .component-bundler-layout-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+}
+.component-bundler-layout-hr {
+  width: 100%;
+  display: block !important;
+  -ms-flex-item-align: center;
+      -webkit-align-self: center;
+      align-self: center;
+  height: 1PX;
+  background-color: #CCCCCC;
+  margin: 12PX 0 15PX 0;
+}
+.component-bundler-layout-hr.horizontal {
+  margin: 20PX 0 12PX 0;
+}
+.component-bundler-layout-hr.vertical {
+  margin: 20PX 0 15PX 0;
+}
+.component-bundler-price {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          -webkit-align-items: flex-end;
+          align-items: flex-end;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  margin-bottom: 20PX;
+}
+.component-bundler-price .component-bundler-price-prefix {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 12PX;
+  color: #333333;
+  line-height: 13PX;
+  margin-right: 5PX;
+}
+.component-bundler-submit {
+  width: 100%;
+  -ms-flex-item-align: center;
+      -webkit-align-self: center;
+      align-self: center;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/.pnpm/css-loader@6.10.0_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/css-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/stylePostLoader.js!../../node_modules/.pnpm/postcss-loader@8.1.1_postcss@8.4.35_typescript@5.4.2_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/postcss-loader/dist/cjs.js!../../node_modules/.pnpm/sass-loader@14.1.1_sass@1.71.1_webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/sass-loader/dist/cjs.js!../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.21_typescript@5.4.2__webpack@5.90.3_esbuild@0.18.17_webpack-cli@5.1.4_/node_modules/vue-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/app/index.vue?vue&type=style&index=1&id=5ecaa44a&lang=scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.app-embed-plus-component-bundler-container.component-bundler-float {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+              -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  z-index: 101;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 5rem 1.4rem 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          -webkit-align-items: flex-start;
+          align-items: flex-start;
+  overflow-y: auto;
+}
+.app-embed-plus-component-bundler-container.component-bundler-float .app-embed-plus-component-bundler {
+  max-width: 60rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.app-embed-plus-component-bundler-container.component-bundler-float .component-bundler-float-close {
+  width: 5.25rem;
+  min-width: 5.25rem;
+  height: 5.25rem;
+  min-height: 5.25rem;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  border-radius: 50%;
+  background: var(--5ecaa44a-computedBundlerOpenBackground);
+  border: var(--5ecaa44a-computedBundlerCloseBorder);
+  font-size: 2.125rem;
+  color: #FFFFFF;
+  -ms-flex-item-align: end;
+      -webkit-align-self: flex-end;
+      align-self: flex-end;
+  margin-bottom: 2rem;
+  cursor: pointer;
+}
+.app-embed-plus-component-bundler-container.component-bundler-float::before {
+  content: "";
+  display: block;
+  max-width: 57rem;
+  width: calc(55% - var(--grid-desktop-horizontal-spacing) / 2);
+}
+@media screen and (max-width: 990PX) {
+.app-embed-plus-component-bundler-container.component-bundler-float::before {
+    max-width: 50rem;
+    width: calc(52% - var(--grid-desktop-horizontal-spacing) / 2);
+}
+.app-embed-plus-component-bundler-container.component-bundler-float .app-embed-plus-component-bundler {
+    max-width: 40rem;
+}
+}
+@media screen and (max-width: 750PX) {
+.app-embed-plus-component-bundler-container.component-bundler-float::before {
+    display: none;
+}
+.app-embed-plus-component-bundler-container.component-bundler-float .app-embed-plus-component-bundler {
+    max-width: 100%;
+}
+}
+.extensions-theme-plugins-app-embed-plus-bundler-float-open {
+  width: auto;
+  height: 5.25rem;
+  position: fixed;
+  bottom: var(--5ecaa44a-css_openFloatButtonBottom);
+  right: 1.4rem;
+  border-radius: 5.25rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+  gap: 0.7rem;
+  padding: 1rem 1.5rem;
+  font-family: "Roboto-Bold";
+  font-weight: bold;
+  color: #FFFFFF;
+  cursor: pointer;
+  z-index: 100;
+  box-shadow: var(--5ecaa44a-computedBundlerOpenBoxShadow);
+  background-color: var(--5ecaa44a-computedBundlerOpenBackground);
+}
+.extensions-theme-plugins-app-embed-plus-bundler-float-open .component-bundler-float-open-icon {
+  width: 3.25rem;
+  height: 3.25rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+}
+.extensions-theme-plugins-app-embed-plus-bundler-float-open .component-bundler-float-open-icon img {
+  display: block;
+  width: auto;
+  height: 100%;
+}
+.extensions-theme-plugins-app-embed-plus-bundler-float-open .component-bundler-float-open-text {
+  font-size: 1.75rem;
+  white-space: nowrap;
+  line-height: 5.25rem;
+}
