@@ -1,0 +1,57 @@
+#bundle-recent_sales {
+    background-color: transparent !important;
+    min-width: 450px !important;
+    overflow: visible !important;
+}
+
+.basic-display {
+    display: flex;
+}
+
+.recent-sales-product {
+    background-color: #a1dceb !important;
+}
+
+.recent-sales-content {
+    background-image: url("https://appsolve.io/asset/apps/vitals/img/recent_sales/spring001.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+
+.bundle-recent_sales-person {
+    color: #142d33 !important;
+}
+
+.bundle-recent_sales-link {
+    color: #142d33 !important;
+}
+
+#bundle-recent_sales-time_ago {
+    color: #ffffff !important;
+    background-color: #ff7f00;
+}
+
+.verifiedby-vitals {
+    left: 86px !important;
+}
+
+.verifiedby-vitals .verifiedby-badge svg {
+    fill: #ff7f00 !important;
+}
+
+#bundle-recent_sales-close {
+    color: #142d33 !important;
+}
+
+@media (max-width: 470px) {
+    #bundle-recent_sales {
+        width: 95% !important;
+        min-width: 250px !important;
+    }
+
+    .bundle-recent_sales-link {
+        max-width: 180px !important;
+    }
+}
